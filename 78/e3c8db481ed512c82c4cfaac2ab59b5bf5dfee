@@ -1,0 +1,18 @@
+gal_ephemeris.xml
+  h_7460ec9263103f 1-219
+gal_iono.xml
+  h_7460ec9263103f 1-17
+gal_utc_model.xml
+  h_7460ec9263103f 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "78e3c8db481ed512c82c4cfaac2ab59b5bf5dfee",
+  "prompts": {},
+  "humans": {
+    "h_7460ec9263103f": {
+      "author": "Shu Wang <shu@orientable.ubuntu>"
+    }
+  }
+}
