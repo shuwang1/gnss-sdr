@@ -1,0 +1,14 @@
+docs/gps_l1c_costas_false_lock_mitigation.md
+  h_7460ec9263103f 1-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e648fa923a0372ab52110e23df11b09dc583a41b",
+  "prompts": {},
+  "humans": {
+    "h_7460ec9263103f": {
+      "author": "Shu Wang <shu@orientable.ubuntu>"
+    }
+  }
+}
