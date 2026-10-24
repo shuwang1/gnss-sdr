@@ -1,0 +1,16 @@
+src/algorithms/PVT/gnuradio_blocks/rtklib_pvt_gs.cc
+  h_7460ec9263103f 176,2149,2252-2257
+src/algorithms/PVT/gnuradio_blocks/rtklib_pvt_gs.h
+  h_7460ec9263103f 268-272
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "da1cb17ce2dde0cc2965fe5e32d77f206992fb04",
+  "prompts": {},
+  "humans": {
+    "h_7460ec9263103f": {
+      "author": "Shu Wang <shu@orientable.ubuntu>"
+    }
+  }
+}
