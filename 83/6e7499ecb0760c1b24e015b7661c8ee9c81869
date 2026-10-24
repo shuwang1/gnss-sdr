@@ -1,0 +1,14 @@
+src/algorithms/libs/rtklib/rtklib_pntpos.cc
+  h_7460ec9263103f 803,815
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "836e7499ecb0760c1b24e015b7661c8ee9c81869",
+  "prompts": {},
+  "humans": {
+    "h_7460ec9263103f": {
+      "author": "Shu Wang <shu@orientable.ubuntu>"
+    }
+  }
+}
